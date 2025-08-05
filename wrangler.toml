@@ -1,4 +1,4 @@
-name = "60s"
+name = "60s-readworld"
 main = "cf-worker.ts"
 compatibility_date = "2025-01-15"
 compatibility_flags = [ "nodejs_compat_v2" ]
